@@ -8,8 +8,8 @@
   --line: #d9dcd6;
   --lime: #d3f36b;
   --lime-dark: #b9df4e;
-  --mono: "DM Mono", monospace;
-  --sans: "Manrope", Arial, sans-serif;
+  --mono: "SFMono-Regular", Consolas, "Liberation Mono", monospace;
+  --sans: "Avenir Next", Avenir, "Segoe UI", sans-serif;
 }
 
 * { box-sizing: border-box; }
